@@ -1,5 +1,6 @@
 # Insertion-Sort-Project
 
+[Patika.dev](https://www.patika.dev/tr)
 
 
 ## [22,27,16,2,18,6] __>Insertion Sort
@@ -30,4 +31,4 @@
      -[2,3,5,8,7,9,4,15,6]    n-2
      -[2,3,4,8,7,9,5,15,6]    n-3
      
-     [Patika.dev](https://www.patika.dev/tr)
+
